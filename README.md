@@ -1,3 +1,3 @@
 # hello-word
 This repository is for practicing the GitHub Flow
-my name is silvia
+my name is Silvia
